@@ -3,7 +3,7 @@
 
 ## Description
 
-This is an app that stores some user data. This app is made to combine the functionality of Room Database with Jetpack compose UI.
+This app allows the user to keep track of data. This app is made to combine the functionality of Room Database with Jetpack compose UI.
 
 
 ## Technologies 
@@ -17,7 +17,7 @@ This is an app that stores some user data. This app is made to combine the funct
 
 ## How to use 
 
-Due to an intuvative UI, this app is very easy to use. All functionality is shown in the gif below,
+Due to an intuitive UI, this app is easy to use. All functionality is shown in the gif below,
 
 ![](appGifs/DataStorageApp.gif)
 
