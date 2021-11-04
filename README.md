@@ -1,2 +1,9 @@
-# data-storage-application
-An app that stores infomration about users, uses Room database and Jetpack compose UI
+# Data Storage Application
+
+
+## Description
+
+
+## Technologies 
+
+## How to use 
